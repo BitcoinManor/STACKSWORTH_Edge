@@ -47,6 +47,21 @@ Data is sourced via **SatoNak endpoints** or other configured APIs.
 
 ---
 
+## ⚡ SatoNak API's  ⚡
+
+- SATONAK API'S
+  - - - [`Satonak Price`](https://www.satonak.bitcoinmanor.com/api/price)
+  - - - [`Satonak Block Height`](https://www.satonak.bitcoinmanor.com/api/height)
+  - - - [`Satonak CAD Price`](https://satonak.bitcoinmanor.com/api/price?fiat=CAD)
+  - - - [`Satonak Fee`](https://satonak.bitcoinmanor.com/api/fee)
+  - - - [`Satonak Hashrate`](https://satonak.bitcoinmanor.com/api/hashrate)
+  - - - [`Satonak Circulating Supply`](https://satonak.bitcoinmanor.com/api/circsupply)
+  - - - [`Satonak Miner`](https://satonak.bitcoinmanor.com/api/miner)
+  - - - [`Satonak 24hr Price Chamge`](https://satonak.bitcoinmanor.com/api/change24h)
+  - - - [`Satonak EUR Price`](https://satonak.bitcoinmanor.com/api/price?fiat=EUR)
+
+---
+
 ### 🟠 Kiosk-Style Operation
 - Designed for continuous operation
 - Minimal UI clutter
