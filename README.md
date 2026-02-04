@@ -149,3 +149,5 @@ Feedback, ideas, and pull requests are welcome — especially from:
 STACKSWORTH is a family-built Bitcoin hardware project focused on creating clear, purpose-driven displays that make Bitcoin data visible, accessible, and meaningful.
 
 More coming soon.
+Visit [BitcoinManor](https://BitcoinManor.com) or [STACKSWORTH](https://STACKSWORTH.COM)
+to buy yours.
