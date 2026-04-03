@@ -1,4 +1,12 @@
-# STACKSWORTH Edge 🧭  
+# STACKSWORTH Edge 🧭
+
+**Open Source • Web Flashable • Bitcoin Metrics Display • Bitcoin at a Glance**
+
+![STACKSWORTH Banner](https://github.com/BitcoinManor/STACKSWORTH_Matrix/raw/main/assets/stacksworth_banner.png)
+
+Welcome to **STACKSWORTH**, the future of open-source Bitcoin displays.  
+
+**This is Bitcoin’s Pulse, at a glance.**
 ### A 7" Touchscreen Bitcoin Dashboard
 
 **STACKSWORTH Edge** is a **7" touchscreen Bitcoin dashboard** designed to display real-time Bitcoin data through a clean, touch-first interface.
