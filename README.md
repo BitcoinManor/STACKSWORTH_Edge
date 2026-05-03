@@ -31,6 +31,15 @@ Edge does **not** run a Bitcoin node and does **not** control other STACKSWORTH 
 
 ---
 
+
+## 🔗 Part of the STACKSWORTH Ecosystem
+
+- **Mini** – Ultra-compact display  
+- **CORE** – Entry-level device (this project)  
+- **Matrix** – LED display system  
+- **Spark / Edge / Infinity** – Full touchscreen + node devices  
+
+
 ## 🧠 Core Capabilities
 
 ### 🟠 Touchscreen Bitcoin Dashboard
